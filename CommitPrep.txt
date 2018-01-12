@@ -1,0 +1,22 @@
+import java.util.date;
+import gitlet.Utils;
+import java.io;
+import java.nio.file.FileSystem;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+import java.util.ArrayList;
+import java.nio.Files;
+import java.nio.File;
+
+class Commit {
+define parent
+define commitDate
+
+getter/setter methods
+
+constructor {
+set date to current Date
+set parent to input
+}
+
+}
